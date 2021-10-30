@@ -18,5 +18,6 @@ router.get('/verAbout', visu.verAbout);
 router.get('/verContact', visu.vercontact);
 router.get('/verwork', visu.verwork);
 router.get('/versingle', visu.versingle);
+router.get('/verUpload', visu.verUpload);
 
 module.exports = router;

@@ -33,6 +33,14 @@ class vi_frag {
         });
 
     }
+    verUpload(req, res) {
+        res.render('index', {
+            title: 'upload de Endemica',
+            fragmentos: "comple/uploadPost"
+
+        });
+
+    }
 
 }
 module.exports = vi_frag;
