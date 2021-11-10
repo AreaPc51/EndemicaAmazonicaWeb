@@ -1,0 +1,17 @@
+{
+    "development":{
+        "username": "mag",
+        "password":"1412",
+        "database": "endemicaBD",
+        "host": "localhost",
+        "dialect": "mysql"       
+    },
+    "staging":{
+        "username": "mag",
+        "password":"1412",
+        "database": "endemicaBD",
+        "host": "localhost",
+        "dialect": "mysql"  
+    }
+  
+}
